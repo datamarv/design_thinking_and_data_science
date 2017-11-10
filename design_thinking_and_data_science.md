@@ -1,37 +1,91 @@
-Was ist Design Thinking und was hat Data Science damit zu tun?
+
+
 ========================================================
 author: Martin Schneider  
 date: 10.11.2017
 autosize: true
+width: 1440
+height: 900
 
-First Slide
+# Was ist Design Thinking und was hat Data Science damit zu tun?
+
+![optional caption text](design_thinking_and_data_science-figure/design_thinking_example_pic.jpeg)
+![optional caption text](design_thinking_and_data_science-figure/data_science_example_pic.jpeg)
+
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+# Agenda
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Was ist Design Thinking?
+- Was hat Data Science damit zu tun?
+- und was R?
 
-Slide With Code
+
+========================================================
+# Was ist Design Thinking?
+
+
 ========================================================
 
+# Was ist <span style="color:red;">Design</span> <span style="color:grey;">Thinking</span>?
 
-```r
-summary(cars)
-```
+- gestalten
+- design beispiel vielleicht eames chair
 
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
+=======================================================
 
-Slide With Plot
+Getaltungsprozess
+
+=======================================================
+
+# Was kann man gestalten?
+
+- Möbel
+- Plakate
+- Software
+- Services
+- Data Products 
+
+=====================================================
+
+# Vorstellung Tim Brown Ideo
+
+
+=====================================================
+
+# Vorstellung Design Thinking Prozess
+
+====================================================
+
+# Wie kann Data Science im Design Thinking unterstützen?
+Sherlock Holmes Zitat und Sherlock Holmes Bild
+erwähnung das ideo eine datascience company gekauft hat
+
+===================================================
+
+# Wie kann Data Science mit Design Thinking gestaltet werden?
+
+=======================================================
+
+# Regressionsprototyp auf Whiteboard
+
+
 ========================================================
 
-![plot of chunk unnamed-chunk-2](design_thinking_and_data_science-figure/unnamed-chunk-2-1.png)
+# Wie kann R helfen
+
+
+=====================================================
+
+# Fast Prototyping, shiny
+
+
+
+
+
+
+
+
+
+
+
